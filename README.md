@@ -24,4 +24,4 @@ Factory Pattern is used which delegates the responsibility of initializing a cla
 The Examples in the test are covered in the test cases.
 
 # Possible Improvements
-More test cases can be added for each and every valid and invalid operator/character in the input.
+More test cases can be added. For Example test case for each and every invalid operator/character in the input.
