@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="org.nadeem.RPNCalculatorTest" time="0.029" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="org.nadeem.RPNCalculatorTest" time="0.016" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/jre/lib"/>
@@ -64,12 +64,12 @@
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample7" time="0.018"/>
-  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample8" time="0"/>
-  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample1" time="0.001"/>
-  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample2" time="0.002"/>
-  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample3" time="0.002"/>
-  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample4" time="0.002"/>
-  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample5" time="0.002"/>
-  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample6" time="0.002"/>
+  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample1" time="0.01"/>
+  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample2" time="0"/>
+  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample3" time="0.001"/>
+  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample4" time="0.001"/>
+  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample5" time="0.001"/>
+  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample6" time="0.001"/>
+  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample7" time="0.001"/>
+  <testcase classname="org.nadeem.RPNCalculatorTest" name="testExample8" time="0.001"/>
 </testsuite>

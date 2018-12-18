@@ -11,6 +11,7 @@ public class App {
 		RPNCalculator rpnCal = new RPNCalculator();
 		// Initialize reader
 		BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+		System.out.println("Please Enter your Inputs");
 		try {
 			// Create Infinite loop to keep reading inputs
 			for (;;) {
