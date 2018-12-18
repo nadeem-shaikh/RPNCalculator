@@ -19,3 +19,9 @@ Factory Pattern is used which delegates the responsibility of initializing a cla
 2.  cd RPNCalculator
 3.  mvn package
 4.  java -jar target/RPNCalculator-0.0.1-SNAPSHOT.jar
+
+# Tests
+The Examples in the test are covered in the test cases.
+
+# Possible Improvements
+More test cases can be added for each and every valid and invalid operator/character in the input.
