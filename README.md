@@ -1,6 +1,15 @@
 # RPNCalculator
 Reverse Polish Calculator with Undo Functionality
 
+# Set Up
+
+You will need below tools before you run this application
+
+1.  git - https://git-scm.com/
+2.  java version "1.8.0_191" - https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+3.  Apache Maven 3.6.0 - https://maven.apache.org/download.cgi
+
+
 # Solution Overview
 
 Factory Pattern is used which delegates the responsibility of initializing a class to a particular factory class. We have an Operator interface which isimplemented by several operator classes. An OperatorFactory is be used to create and fetch objects.
